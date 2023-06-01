@@ -617,10 +617,6 @@ h1,h2,h3,h4,h5,h6 {
 
 }
 
-.footer-container {
-    display: flex;
-    align-items: baseline
-}
 
 .footer-logo-inner {
 
@@ -666,6 +662,22 @@ h1,h2,h3,h4,h5,h6 {
 .footer-social-title {
 
     font-weight: 500;
+}
+
+.footer-content {
+    display: flex;
+    align-items: baseline;
+
+}
+
+.footer-main-content{
+    margin-right: 120px;
+
+}
+
+.footer-second-content{
+
+
 }
 
 
