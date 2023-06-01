@@ -527,7 +527,7 @@ h1,h2,h3,h4,h5,h6 {
 
 
 
-/**------------- FOOTER-----------*/
+/**------------- SERVICE-----------*/
 
 .list {
 
@@ -546,10 +546,11 @@ h1,h2,h3,h4,h5,h6 {
     font-style: normal;
     font-weight: 700;
     font-size: 36px;
-    line-height: 40px;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    line-height: 1.11;
+    color: #2e2f42;
    
 
     margin-bottom: 72px;
@@ -600,7 +601,6 @@ h1,h2,h3,h4,h5,h6 {
 
 
 
-
 /**------------- FOOTER-----------*/
 
 
@@ -617,7 +617,10 @@ h1,h2,h3,h4,h5,h6 {
 
 }
 
-
+.footer-container {
+    display: flex;
+    align-items: baseline
+}
 
 .footer-logo-inner {
 
@@ -658,6 +661,11 @@ h1,h2,h3,h4,h5,h6 {
 
     color:#F4F4FD;
 
+}
+
+.footer-social-title {
+
+    font-weight: 500;
 }
 
 
