@@ -579,12 +579,12 @@ h1,h2,h3,h4,h5,h6 {
 .container {
 }
 
-.service {
+.service{
     padding-top: 120px;
     padding-bottom: 120px;
 }
 
-.service-title {
+.service-title{
 
     font-family: 'Roboto';
     font-style: normal;
@@ -606,7 +606,7 @@ h1,h2,h3,h4,h5,h6 {
     
 }
 
-.service-item {
+.service-item{
 
     width: calc((100% - 120px) / 6);
     height: 88px;
