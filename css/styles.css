@@ -622,6 +622,10 @@ h1,h2,h3,h4,h5,h6 {
 
 }
 
+.staff-link-icon:first-child{
+    fill: currentColor;
+}
+
 .servise-link:hover {
     border-color: #404bbf;
     color: #404bbf;
