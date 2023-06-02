@@ -576,12 +576,12 @@ h1,h2,h3,h4,h5,h6 {
 .container {
 }
 
-.servise{
+.service{
     padding-top: 120px;
     padding-bottom: 120px;
 }
 
-.servise-title {
+.service-title {
 
     font-family: 'Roboto';
     font-style: normal;
@@ -598,7 +598,7 @@ h1,h2,h3,h4,h5,h6 {
    
 }
 
-.servise-list{
+.service-list{
 
     display: flex; 
     gap: 24px;
@@ -611,7 +611,7 @@ h1,h2,h3,h4,h5,h6 {
     height: 88px;
     
 }
-.servise-link{
+.service-link{
     width: 100%;
     height: 100%;
     border: 1px solid #8e8f99;
@@ -626,17 +626,17 @@ h1,h2,h3,h4,h5,h6 {
 
 }
 
-.staff-link-icon{
+.service-link-icon{
     fill: currentColor;
 }
 
-.servise-link:hover {
+.service-link:hover {
     border-color: #404bbf;
     color: #404bbf;
 
 }
 
-.servise-link:focus {
+.service-link:focus {
 
     border-color: #404bbf;
     color: #404bbf;
