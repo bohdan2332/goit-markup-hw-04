@@ -633,14 +633,14 @@ h1,h2,h3,h4,h5,h6 {
 
 }
 
-.service-link:hover {
+.service-link:hover{
 
     border-color: #404bbf;
     color: #404bbf;
 
 }
 
-.service-link:focus {
+.service-link:focus{
 
     border-color: #404bbf;
     color: #404bbf;
