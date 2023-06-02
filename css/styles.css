@@ -561,6 +561,10 @@ h1,h2,h3,h4,h5,h6 {
 
 }
 
+.staff-link-icon{
+    fill: #f4f4fd;
+}
+
 
 
 
@@ -755,6 +759,10 @@ h1,h2,h3,h4,h5,h6 {
 
 .footer-link:focus{
     background-color: #31d0aa;
+}
+
+.footer-link-icon{
+    fill: #f4f4fd;
 }
 
 
