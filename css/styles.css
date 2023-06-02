@@ -626,8 +626,8 @@ h1,h2,h3,h4,h5,h6 {
 
 }
 
-.staff-link-icon:first-child{
-    fill: currentColor;
+.staff-link-icon{
+    color: #f4f4fd;
 }
 
 .servise-link:hover {
